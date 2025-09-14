@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://alokchatterji5.github.io"
+baseurl = "https://alokchatterji5.github.io/hugo/"
 languageCode = "en-us"
 title = "Darkshield Blog"
 
